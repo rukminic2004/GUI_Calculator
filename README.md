@@ -10,3 +10,6 @@ A cute calculator made in Python using Tkinter, inspired by kawaii pastel design
 ## Run it locally
 ```bash
 python PythonAppCalculator.py
+
+**## Preview**
+![Screenshot](Calculator.png)
