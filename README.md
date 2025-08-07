@@ -11,5 +11,5 @@ A cute calculator made in Python using Tkinter, inspired by kawaii pastel design
 ```bash
 python PythonAppCalculator.py
 
-**## Preview**
+## Preview
 ![Screenshot](Calculator.png)
