@@ -7,9 +7,10 @@ A cute calculator made in Python using Tkinter, inspired by kawaii pastel design
 - Soft pastel UI (like cute mobile calculators)
 - Handles large numbers
 
+## Preview
+
+![Screenshot](Calculator.png)
+
 ## Run it locally
 ```bash
 python PythonAppCalculator.py
-
-## Preview
-![Screenshot](Calculator.png)
